@@ -1,0 +1,24 @@
+//
+// Prefix header for all source files of the 'instantMaps' target in the 'instantMaps' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+
+#define indexOffset 2
+
+#define arrayTotal 2000
+
+#define arraySize 4
+#define startOff @"A"
+#define plistName @"ozredlight"
+
+#define iconImage @"redlight.png"
+
+#define codesPlist @"oz"
+#define tableheight 110
+
+#define phoneString @"****"
